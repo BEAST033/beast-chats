@@ -8,7 +8,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: "https://resonant-jelly-a5b9b6.netlify.app",
   })
 );
 

@@ -48,7 +48,7 @@ process.on("unhandledRejection", (err) => {
 const io = socket(server, {
   cors: {
     // 3000
-    origin: "http://localhost:3000",
+    origin: "https://resonant-jelly-a5b9b6.netlify.app",
     credentials: true,
   },
 });
