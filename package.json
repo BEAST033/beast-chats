@@ -4,7 +4,7 @@
   "description": "A Real Time Chatting Application",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "npm start server.js"
   },
   "author": "Arslan Ahmed",
   "license": "ISC",
